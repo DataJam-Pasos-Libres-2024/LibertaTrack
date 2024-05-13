@@ -95,18 +95,24 @@ Locación: /[Organización de Github](https://github.com/orgs/Datajam-Pasos-Libr
 
 Los repositorios listados corresponden a todo el código relacionado al desarrollo de la aplicación web/móvil y *deploy* de la solución en AWS.
 
+# 7. Referencias
 
-# 7. Documentos Adicionales (Opcional)
+# 8. Documentos Adicionales (Opcional)
+
 
 ---
-## 7.1. Demo de LibertaTrack y Tech Stack
+## 8.1. Demo de LibertaTrack y Tech Stack
 
 [![LibertaTrack- Demo y Stack Tecnologico](https://img.youtube.com/vi/S7Z0mA_rRgI/0.jpg)](https://www.youtube.com/watch?v=S7Z0mA_rRgI)
 
-## 7.2. Arquitectura de solución del chatbot en AWS.
+## 8.2. Instrucciones para ejecutar la aplicación móvil de forma local
+
+## 8.3. Instrucciones para ejecutar la aplicación web de forma local
+
+## 8.4. Arquitectura de solución del chatbot en AWS.
 
 ![image](https://github.com/DataJam-Pasos-Libres-2024/LibertaTrack/assets/69759418/e33c9cad-23c6-47a4-bd64-9cb6918fb606)
 
-## 7.3. Propuesta de la arquitectura de solución en etapa de producción.
+## 8.5. Propuesta de la arquitectura de solución en etapa de producción.
 
 ![image](https://github.com/DataJam-Pasos-Libres-2024/LibertaTrack/assets/69759418/b2359630-ccee-459a-b26a-d096958e6f6b) 
