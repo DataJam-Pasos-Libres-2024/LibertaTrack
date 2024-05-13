@@ -3,6 +3,27 @@
 Este es un repositorio de proyectos de investigación en el ámbito de la esclavitud moderna. Incluye todas las ideas de proyectos o temas de investigación que serían útiles para nuestro proyecto.
 Esto incluiría lo siguiente:
 
+# Tabla de contenido
+0. [Nosotros](#Nosotros)
+   1. [¿Quienes somos?](#0.1-¿Quienes-somos?)
+   2. [Motivación para participar en la competencia](#0.2-Motivacion-para-participar)
+1. [Planteamiento del problema](#1-Planteamiento-del-problema)
+2. [Objetivo](#4-descripción-solucióncaso-uso-de-datos)
+   1. [Objetivo general](#2.1-objetivo-general)
+   2. [Objetivo específico](#2.2-objetivo-especifico)
+3. [Descripción Solución/Caso Uso de Datos](#3-descipcion-solucion/caso-uso-de-datos)
+4. [Pitch](#4-pitch)
+5. [Datasets](#5-datasets)
+6. [Código Proyecto](#6-codigo-proyecto)
+7. [Documentos Adicionales (Opcional)](#7-documentos-adicionales-(opcional))
+   1. [Demo de LibertaTrack y Tech Stack](#7.1-demo-de-libertaTrack-y-tech-stack)
+   2. [Pasos para lanzar la infraestructura como código](#7.2-pasos-para-lanzar-la-infraestructura-como-codigo)
+   3. [Instrucciones para ejecutar la aplicación móvil de forma local](#7.3-instrucciones-para-ejecutar-la-aplicacion-movil-de-forma-local)
+   4. [Instrucciones para ejecutar la aplicación web de forma local](#7.4-instrucciones-para-ejecutar-la-aplicacion-web-de-forma-local)
+   5. [Arquitectura de solución del chatbot en AWS](#7.5-arquitectura-de-solucion-del-chatbot-en-AWS)
+   6. [Propuesta de la arquitectura de solución en etapa de producción](#7.6-propuesta-de-la-arquitectura-de-solucion-en-etapa-de-produccion)
+8. [Referencias](#8-referencias)
+
 # 0. Nosotros
 ---
 ## 0.1. ¿Quienes somos?
@@ -12,15 +33,11 @@ Somos un equipo multidisciplinario. Cada integrante aporta habilidades que van d
 ![image](https://github.com/DataJam-Pasos-Libres-2024/LibertaTrack/assets/69759418/5024d659-e232-40a5-803a-d54877424601)
 
 
-## 0.2. ¿Por qué quieren participar en la DataJam Pasos Libres y por qué los organizadores deberían seleccionarlos para participar en la competencia?
-
-Estimados organizadores de la Datajam Pasos Libres.
+## 0.2. Motivación para participar en la competencia
 
 Nuestra motivación surge de un compromiso compartido con la justicia social y la convicción de que la tecnología y el análisis de datos pueden ser catalizadores poderosos para el cambio. Juntos, queremos aplicar nuestra pasión y habilidades para contribuir significativamente a la lucha contra la esclavitud moderna. Por tal razón, valoramos profundamente la oportunidad de mentoría y colaboración que la DataJam ofrece. Creemos que aprender de los expertos y colaborar con otros equipos puede potenciar nuestra capacidad para enfrentar los retos planteados y, en consecuencia, fortalecer el impacto de nuestras soluciones. 
 
-Realmente confiamos en que nuestra mezcla única de habilidades, pasión y visión hará una contribución valiosa a la DataJam Pasos Libres. Además, entendemos que la decisión final de inclusión en la DataJam Pasos Libres está en sus manos. Apreciamos profundamente la consideración que puedan dar a nuestra solicitud y nos comprometemos, si somos seleccionados, a aportar no sólo nuestras habilidades y dedicación, sino también un espíritu de innovación y colaboración que creemos es central para el éxito de este evento. 
-
-Estamos ansiosos por la posibilidad de ser seleccionados y aportar nuestro entusiasmo y conocimientos en la lucha contra la esclavitud moderna. Además, no nos cabe duda que nuestro equipo no solo cumplirá con las expectativas de la competencia, sino que las excederá, aportando soluciones creativas y eficaces.
+Realmente confiamos en que nuestra mezcla única de habilidades, pasión y visión hará una contribución valiosa a la DataJam Pasos Libres. Estamos ansiosos por aportar nuestro entusiasmo y conocimientos en la lucha contra la esclavitud moderna. Además, no nos cabe duda que nuestro equipo no solo cumplirá con las expectativas de la competencia, sino que las excederá, aportando una solución creativa y eficaz.
 
 # 1. Planteamiento del Problema
 ---
@@ -39,10 +56,10 @@ e) **Existen esfuerzos invaluables por brindar información y recomendaciones gr
 
 # 2. Objetivo
 ---
-## 2.1 Objetivo General
+## 2.1. Objetivo General
 Diseñar una herramienta de monitoreo y seguimiento que aliente y permita a las empresas evaluar e informar su progreso en la implementación de las recomendaciones para gestionar la esclavitud moderna proporcionadas por el Modern Slavery Benchmarking Tool de Walk Free.
 
-## 2.1 Objetivos espécificos:
+## 2.1. Objetivos espécificos:
 
 * Divulgar y facilitar la aplicación de la Modern Slavery Benchmarking Tool.
 * Conectar a los consumidores con aquellas empresas que priorizan las acciones encaminadas a la garantía de los derechos humanos y la responsabilidad social.
@@ -257,7 +274,7 @@ npm run build   # or yarn build
 ![image](https://github.com/DataJam-Pasos-Libres-2024/LibertaTrack/assets/69759418/865bd9b9-9275-46e3-ac33-51f079e2fb09)
 
 
-## 7.5. Arquitectura de solución del chatbot en AWS.
+## 7.5. Arquitectura de solución del chatbot en AWS
 
 A continuación se presenta la arquitectura de solución realizada del chabot en AWS:
 
@@ -279,7 +296,7 @@ La arquitectura mostrado es para un chatbot que opera utilizando diversos servic
 
 7. **AWS CloudFormation**: Permite a los desarrolladores y a las empresas automatizar el despliegue y la gestión de la infraestructura como código. En esta arquitectura, se utiliza para orquestar y manejar la creación y gestión de todos los recursos AWS utilizados por el chatbot.
 
-## 7.6. Propuesta de la arquitectura de solución en etapa de producción.
+## 7.6. Propuesta de la arquitectura de solución en etapa de producción
 
 A continuación se presenta la arquitectura de solución propuesta si se optará por sacar la aplicación web a producción:
 
