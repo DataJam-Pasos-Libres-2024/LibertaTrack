@@ -5,7 +5,7 @@ Esto incluiría lo siguiente:
 
 # Tabla de contenido
 0. [Nosotros](#0-Nosotros)
-   1. [¿Quienes somos?](#1-¿Quienes-somos?)
+   1. [¿Quienes somos?](#1-Quienes-somos)
    2. [Motivación para participar en la competencia](#2-Motivacion-para-participar)
 1. [Planteamiento del problema](#1-Planteamiento-del-problema)
 2. [Objetivo](#2-Objetivo)
