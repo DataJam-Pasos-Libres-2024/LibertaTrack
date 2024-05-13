@@ -9,7 +9,8 @@ Esto incluiría lo siguiente:
 
 Somos un equipo multidisciplinario. Cada integrante aporta habilidades que van desde el desarrollo de software y el análisis de datos, hasta el diseño, marketing y el conocimiento en derechos humanos y justicia social. Abordamos problemas desde múltiples perspectivas para crear soluciones innovadoras. Tenemos sólida experiencia trabajando juntos en proyectos anteriores y promovemos una dinámica de equipo que impulsa la creatividad, inclusión e innovación.
 
-![image](https://github.com/DataJam-Pasos-Libres-2024/LibertaTrack/assets/69759418/67d88d24-241b-45b5-92fd-48fc74da8691)
+![image](https://github.com/DataJam-Pasos-Libres-2024/LibertaTrack/assets/69759418/14127639-fca2-4be0-b84c-57fabd3fca75)
+
 
 ## 0.2. ¿Por qué quieren participar en la DataJam Pasos Libres y por qué los organizadores deberían seleccionarlos para participar en la competencia?
 
@@ -123,6 +124,14 @@ Los repositorios listados corresponden a todo el código relacionado al desarrol
 ## 8.3. Instrucciones para ejecutar la aplicación móvil de forma local
 
 ## 8.4. Instrucciones para ejecutar la aplicación web de forma local
+
+Sigue estos pasos para empezar con el proyecto:
+
+1. **Clona el Repositorio**: Ejecuta el siguiente comando para clonar este repositorio en tu máquina local:
+```bash
+git clone https://github.com/Datajam-Pasos-Libres-Online-2024/liberta-track.git
+```
+2. **Instalación**: Navega al directorio del proyecto e instala las dependencias utilizando tu gestor de paquetes preferido:
 
 ## 8.5. Arquitectura de solución del chatbot en AWS.
 
