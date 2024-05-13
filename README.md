@@ -96,11 +96,11 @@ Los archivos listados son una serie de documentos en formato PDF que exploran el
 ---
 Locación: /[Organización de Github](https://github.com/orgs/Datajam-Pasos-Libres-Online-2024/repositories)
 
-* Código del chatbot web: [chatbot](https://github.com/Datajam-Pasos-Libres-Online-2024/chatbot-assistant) Frameworks: ,Servicios de AWS:
-* Base de conocimientos: [Knowledgebase](https://github.com/Datajam-Pasos-Libres-Online-2024/knowledgebase)
-* Aplicación web: [liberta-track](https://github.com/Datajam-Pasos-Libres-Online-2024/liberta-track)
-* Aplicación móvil: [libertaTrackApp](https://github.com/Datajam-Pasos-Libres-Online-2024/LibertaTrackApp)
-* Infraestructura como código de AWS: [liberta-track-cdk](https://github.com/Datajam-Pasos-Libres-Online-2024/liberta-track-cdk)
+1. **Código del chatbot web**: [chatbot](https://github.com/Datajam-Pasos-Libres-Online-2024/chatbot-assistant) Frameworks: ,Servicios de AWS:
+2. **Base de conocimientos**: [Knowledgebase](https://github.com/Datajam-Pasos-Libres-Online-2024/knowledgebase)
+3. **Aplicación web**: [liberta-track](https://github.com/Datajam-Pasos-Libres-Online-2024/liberta-track)
+4. **Aplicación móvil**: [libertaTrackApp](https://github.com/Datajam-Pasos-Libres-Online-2024/LibertaTrackApp)
+5. **Infraestructura como código de AWS**: [liberta-track-cdk](https://github.com/Datajam-Pasos-Libres-Online-2024/liberta-track-cdk)
 
 Los repositorios listados corresponden a todo el código relacionado al desarrollo de la aplicación web/móvil y *deploy* de la solución en AWS.
 
@@ -199,6 +199,10 @@ npm install   # or yarn install
   ```
 
 Recuerda que debes tener configurado el ambiente de desarrollo para React Native, incluyendo Node.js, Watchman, el Android SDK, y Xcode si estás desarrollando para iOS.
+
+![image](https://github.com/DataJam-Pasos-Libres-2024/LibertaTrack/assets/69759418/58c96f6e-1994-4ed5-9541-e0da84ac8f93)
+![image](https://github.com/DataJam-Pasos-Libres-2024/LibertaTrack/assets/69759418/048db797-a51d-4d69-b1a0-e94c22e91249)
+![image](https://github.com/DataJam-Pasos-Libres-2024/LibertaTrack/assets/69759418/e796cb58-63e1-4b64-8108-5122b57b1649)
 
 ## 8.4. Instrucciones para ejecutar la aplicación web de forma local
 
