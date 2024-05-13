@@ -144,13 +144,13 @@ npm install   # or yarn install
 
 4. **Desarrollo**: Inicia el servidor de desarrollo:
 
-   ```bash
+```bash
 npm run dev   # or yarn dev
 ```   
 
 5. **Construcción para Producción**: Cuando tu proyecto esté listo para el despliegue, crea una construcción de producción:
 
-   ```bash
+```bash
 npm run build   # or yarn build
 ```   
 
