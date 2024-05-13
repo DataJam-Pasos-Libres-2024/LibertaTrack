@@ -69,8 +69,7 @@ El diseño de nuestra herramienta cuenta con recursos explicativos anexos en el 
 ---
 
 A continuacion el link del Pitch: 
-[![Comprehensive Markdown Crash Course](![image](https://github.com/DataJam-Pasos-Libres-2024/LibertaTrack/assets/69759418/38685a04-b38d-491e-b0d4-32aa137c70f6)
-)](https://www.youtube.com/watch?v=ALWR6g8gBBA "LibertaTrack - DataJam Pasos Libres 2024")
+[![LibertaTrack - DataJam Pasos Libres 2024](https://www.youtube.com/watch?v=ALWR6g8gBBA/0.jpg)](https://www.youtube.com/watch?v=ALWR6g8gBBA)
 
 
 # 5. Datasets
