@@ -76,7 +76,7 @@ A continuacion el link del Pitch:
 
 Locación: /[datasets](modern-slavery-statement-registry.service.gov.uk)
 
-Archivos listados: [Base de conocimientos](https://github.com/Datajam-Pasos-Libres-Online-2024/knowledgebase)
+* Base de conocimientos: [Knowledgebase](https://github.com/Datajam-Pasos-Libres-Online-2024/knowledgebase)
 
 Los archivos listados son una serie de documentos en formato PDF que exploran el tema de la esclavitud moderna dentro de grandes cadenas de comida rápida y restaurantes. Cada archivo lleva el nombre de una cadena diferente, lo que indica que contienen información específica o reportes sobre las prácticas laborales de cada empresa respectivamente.
 
@@ -86,12 +86,14 @@ Los archivos listados son una serie de documentos en formato PDF que exploran el
 
 # 6. Código Proyecto
 
-Locación: /[project](modern-slavery-statement-registry.service.gov.uk)
-Archivos listados: [Base de conocimientos](https://github.com/Datajam-Pasos-Libres-Online-2024/knowledgebase)
+Locación: /[Organización de Github](https://github.com/orgs/Datajam-Pasos-Libres-Online-2024/repositories)
 
-Esto incluiría lo siguiente:
+* Código del chatbot web: [chatbot](https://github.com/Datajam-Pasos-Libres-Online-2024/chatbot-assistant)
+* Base de conocimientos: [Knowledgebase](https://github.com/Datajam-Pasos-Libres-Online-2024/knowledgebase)
+* Aplicación web: [liberta-track](https://github.com/Datajam-Pasos-Libres-Online-2024/liberta-track)
+* Aplicación móvil: [libertaTrackApp](https://github.com/Datajam-Pasos-Libres-Online-2024/LibertaTrackApp)
+* Infraestructura como código de AWS: [liberta-track-cdk](https://github.com/Datajam-Pasos-Libres-Online-2024/liberta-track-cdk)
 
-Los archivos listados son una serie de documentos en formato PDF que exploran el tema de la esclavitud moderna dentro de grandes cadenas de comida rápida y restaurantes. Cada archivo lleva el nombre de una cadena diferente, lo que indica que contienen información específica o reportes sobre las prácticas laborales de cada empresa respectivamente.
 
 
 # 7. Documentos Adicionales (Opcional)
