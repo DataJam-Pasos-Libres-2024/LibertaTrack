@@ -97,6 +97,15 @@ Los repositorios listados corresponden a todo el código relacionado al desarrol
 
 # 7. Referencias
 
+---
+
+* Alvarado, F., Álvarez, A., Chaparro, J. C., González, C., Levy, S., Maldonado, D., ... & Villaveces, M. J. (2021). Reporte ejecutivo de la Misión de Empleo de Colombia. Bogotá, DC, Colombia: Ministerio de Trabajo-DNP.
+* AU Modern Slavery Act 2018. An Act to require some entities to report on the risks of modern slavery in their operations and supply chains and actions to address those risks, and for related purposes. 10th December 2018.
+* CA S.C. 2023, c. 9. An Act to enact the Fighting Against Forced Labour and Child Labour in Supply Chains Act and to amend the Customs Tariff. 1th May 2023
+* Frey, S. B. A. J., Am, J. B., Doshi, V., Malik, A., & Noble, S. (2023). Consumers Care about Sustainability and Back It Up with Their Wallets. Mckinsey and Company
+* UK Modern Slavery Act 2015. An Act to make provision about slavery, servitude and forced or compulsory labour and about human trafficking, including provision for the protection of victims; to make provision for an Independent Anti-slavery Commissioner; and for connected purposes. 26th March 2015. 
+* Walk Free (2023). The Global Slavery Index 2023, Minderoo Foundation. Recuperado de https://walkfree.org/global-slavery-index
+
 # 8. Documentos Adicionales (Opcional)
 
 
