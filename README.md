@@ -96,7 +96,7 @@ Los archivos listados son una serie de documentos en formato PDF que exploran el
 ---
 Locación: /[Organización de Github](https://github.com/orgs/Datajam-Pasos-Libres-Online-2024/repositories)
 
-* Código del chatbot web: [chatbot](https://github.com/Datajam-Pasos-Libres-Online-2024/chatbot-assistant)
+* Código del chatbot web: [chatbot](https://github.com/Datajam-Pasos-Libres-Online-2024/chatbot-assistant) Frameworks: ,Servicios de AWS:
 * Base de conocimientos: [Knowledgebase](https://github.com/Datajam-Pasos-Libres-Online-2024/knowledgebase)
 * Aplicación web: [liberta-track](https://github.com/Datajam-Pasos-Libres-Online-2024/liberta-track)
 * Aplicación móvil: [libertaTrackApp](https://github.com/Datajam-Pasos-Libres-Online-2024/LibertaTrackApp)
