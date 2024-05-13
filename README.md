@@ -60,23 +60,18 @@ El segundo enfoque está relacionado con los consumidores y el rol primordial qu
 * Obtener información y recursos educativos sobre qué es la esclavitud moderna y cuáles son las organizaciones que trabajan en abolirla.
 * Tener un asistente virtual ChatBot que pueda responder a mis preguntas sobre los puntos anteriores para facilitar mi navegación en la plataforma
 
-**Sobre el prototipo LIBERTTRACK**
+**Sobre el prototipo LibertaTrack**
 
 El diseño de nuestra herramienta cuenta con recursos explicativos anexos en el GitHub. Para su elaboración consideramos los Data Sets entregados por los organizadores, así como la información pública de 5 restaurantes de cadena cuyos informes atienden a las exigencias de las leyes de Reino Unido. Por tanto, en la elaboración de esta propuesta fue esencial la información disponible en el Modern slavery statement registry de Reino Unido disponible en [Modern slavery statement registry - GOV.UK](modern-slavery-statement-registry.service.gov.uk).
 
 # 4. Pitch
 
-Un pitch de máximo 4 minutos.
+---
 
-Sugerencia: se recomienda agregar aquí solo enlaces, por ejemplo, a la grabación de Youtube:
+A continuacion el link del Pitch: 
 
-Ejemplo: [link to video](https://www.youtube.com/watch?v=xUcB90b2HMs&ab_channel=GitHub)
+<iframe width="320" height="180" src="LIBERTTRACK - DataJam Pasos Libres 2024" title="LibertaTrack - DataJam Pasos Libres 2024" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="1"></iframe>
 
-GitHub Limitaciones:
-
-•100MB por archivo
-
-•10GB por repositorio
 
 # 5. Datasets
 
