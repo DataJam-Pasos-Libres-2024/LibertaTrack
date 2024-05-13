@@ -233,9 +233,11 @@ npm run build   # or yarn build
 
 ## 8.5. Arquitectura de solución del chatbot en AWS.
 
+A continuación se presenta la arquitectura de solución realizada del chabot en AWS:
+
 ![image](https://github.com/DataJam-Pasos-Libres-2024/LibertaTrack/assets/69759418/e33c9cad-23c6-47a4-bd64-9cb6918fb606)
 
-La arquitectura mostrado es para un chatbot que opera utilizando diversos servicios de AWS (Amazon Web Services). Aquí se detallo cómo funciona cada componente de esta arquitectura:
+La arquitectura mostrado es para un chatbot que opera utilizando diversos servicios de AWS (Amazon Web Services). Aquí se detalla cómo funciona cada componente de esta arquitectura:
 
 1. **Cliente**: Representa al usuario final que interactúa con el chatbot. Este puede ser cualquier dispositivo o interfaz que envía preguntas al chatbot.
 
@@ -253,7 +255,39 @@ La arquitectura mostrado es para un chatbot que opera utilizando diversos servic
 
 ## 8.6. Propuesta de la arquitectura de solución en etapa de producción.
 
+A continuación se presenta la arquitectura de solución propuesta si se optará por sacar la aplicación web a producción:
+
 ![image](https://github.com/DataJam-Pasos-Libres-2024/LibertaTrack/assets/69759418/b2359630-ccee-459a-b26a-d096958e6f6b) 
+
+La arquitectura presentada en el diagrama garantiza una aplicación con un enfoque en alta disponibilidad, escalabilidad y seguridad. Aquí se detallan estos aspectos:
+
+1. **Alta Disponibilidad**:
+
+* **Zona de disponibilidad**: La infraestructura se despliega en múltiples zonas de disponibilidad (AZs). En este caso, AZ A y AZ B. Esto asegura que si una zona tiene una falla, la otra puede continuar operando, minimizando el tiempo de inactividad.
+
+* **Balanceadores de carga**: Se utilizan dos tipos de balanceadores de carga: uno externo (Internet Load Balancer) para distribuir el tráfico entrante desde Internet, y otro interno (Internal Load Balancer) para distribuir el tráfico entre los servidores web y otros componentes internos. Esto no solo distribuye eficientemente el tráfico, sino que también proporciona tolerancia a fallos si un servidor se cae.
+
+2. **Escalabilidad**:
+
+* **Auto Scaling Groups**: Hay dos grupos de autoescalado en la arquitectura, uno para el frontend y otro para el backend. Estos grupos ajustan automáticamente el número de instancias EC2 (t2.medium en este caso) según la demanda para mantener el rendimiento y minimizar costos.
+
+* **Subredes públicas y privadas**: Utilizar subredes diferenciadas para diferentes propósitos (públicas para exposición a internet y privadas para procesos internos) permite una gestión más eficiente de los recursos y facilita la escalabilidad vertical y horizontal según sea necesario.
+
+3. **Seguridad**
+
+* **Subredes privadas y públicas**: Los componentes críticos como bases de datos MySQL y servidores web están ubicados en subredes privadas, lo que limita el acceso directo desde Internet, aumentando la seguridad.
+  
+* **NAT Gateways**: Ubicados en subredes públicas, los NAT Gateways permiten que las instancias en las subredes privadas accedan a Internet para actualizaciones y parches, sin permitir conexiones entrantes desde Internet, protegiendo así estas instancias.
+
+* **Internet Gateway y Endpoint de gateway**:  El Internet Gateway permite la comunicación entre los recursos de AWS en la VPC y el Internet, mientras que el Endpoint de gateway se utiliza para conexiones seguras a servicios de AWS, como el bucket de S3, sin necesidad de exponer el tráfico a Internet público.
+
+4. **Otros aspectos**:
+
+* **S3 Bucket**: Utilizado para almacenar datos estáticos o backups, que pueden ser accedidos de manera segura a través del Gateway Endpoint.
+
+* **MySQL Instances**: La base de datos principal y una instancia alternativa proporcionan redundancia y aseguran la persistencia de datos entre las zonas de disponibilidad.
+
+Esta arquitectura proporciona una solución robusta para LibertaTrack web que requieren un alto nivel de operatividad, adaptabilidad ante cambios de carga y una defensa sólida contra accesos no autorizados y otros riesgos de seguridad por datos sensibles de las empresas.
 
 
 
