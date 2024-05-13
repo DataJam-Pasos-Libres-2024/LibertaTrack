@@ -233,7 +233,18 @@ npm run dev   # or yarn dev
 
 ```bash
 npm run build   # or yarn build
-```   
+```
+
+![image](https://github.com/DataJam-Pasos-Libres-2024/LibertaTrack/assets/69759418/20546ffe-cbea-475f-bc68-2a10b9d623a6)
+![image](https://github.com/DataJam-Pasos-Libres-2024/LibertaTrack/assets/69759418/0c1186ce-6020-4638-8d7f-311953fed9d4)
+![image](https://github.com/DataJam-Pasos-Libres-2024/LibertaTrack/assets/69759418/5b41047e-7880-4f8a-9f98-26f5cf6c1d6a)
+![image](https://github.com/DataJam-Pasos-Libres-2024/LibertaTrack/assets/69759418/96358f66-502c-4234-be1a-59c7260122bd)
+![image](https://github.com/DataJam-Pasos-Libres-2024/LibertaTrack/assets/69759418/7eea30b6-ea9b-4934-a420-e22bc19bba90)
+![image](https://github.com/DataJam-Pasos-Libres-2024/LibertaTrack/assets/69759418/ab64fa56-9792-4916-9b97-80844b1cad4d)
+![image](https://github.com/DataJam-Pasos-Libres-2024/LibertaTrack/assets/69759418/e19bccf0-7ec9-41fa-b7a6-ddea1a5d651f)
+![image](https://github.com/DataJam-Pasos-Libres-2024/LibertaTrack/assets/69759418/90d37ef5-3f64-47bf-a1e9-194094fe3aea)
+![image](https://github.com/DataJam-Pasos-Libres-2024/LibertaTrack/assets/69759418/865bd9b9-9275-46e3-ac33-51f079e2fb09)
+
 
 ## 8.5. Arquitectura de solución del chatbot en AWS.
 
