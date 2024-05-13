@@ -243,6 +243,7 @@ npm run build   # or yarn build
 ![image](https://github.com/DataJam-Pasos-Libres-2024/LibertaTrack/assets/69759418/ab64fa56-9792-4916-9b97-80844b1cad4d)
 ![image](https://github.com/DataJam-Pasos-Libres-2024/LibertaTrack/assets/69759418/e19bccf0-7ec9-41fa-b7a6-ddea1a5d651f)
 ![image](https://github.com/DataJam-Pasos-Libres-2024/LibertaTrack/assets/69759418/90d37ef5-3f64-47bf-a1e9-194094fe3aea)
+![image](https://github.com/DataJam-Pasos-Libres-2024/LibertaTrack/assets/69759418/01362d7f-21a1-43f3-90d8-6fb7fdd85e48)
 ![image](https://github.com/DataJam-Pasos-Libres-2024/LibertaTrack/assets/69759418/865bd9b9-9275-46e3-ac33-51f079e2fb09)
 
 
