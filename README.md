@@ -74,6 +74,8 @@ A continuacion el link del Pitch:
 
 # 5. Datasets
 
+---
+
 Locación: /[datasets](modern-slavery-statement-registry.service.gov.uk)
 
 * Base de conocimientos: [Knowledgebase](https://github.com/Datajam-Pasos-Libres-Online-2024/knowledgebase)
@@ -83,6 +85,8 @@ Los archivos listados son una serie de documentos en formato PDF que exploran el
 
 # 6. Código Proyecto
 
+---
+
 Locación: /[Organización de Github](https://github.com/orgs/Datajam-Pasos-Libres-Online-2024/repositories)
 
 * Código del chatbot web: [chatbot](https://github.com/Datajam-Pasos-Libres-Online-2024/chatbot-assistant)
@@ -91,13 +95,17 @@ Locación: /[Organización de Github](https://github.com/orgs/Datajam-Pasos-Libr
 * Aplicación móvil: [libertaTrackApp](https://github.com/Datajam-Pasos-Libres-Online-2024/LibertaTrackApp)
 * Infraestructura como código de AWS: [liberta-track-cdk](https://github.com/Datajam-Pasos-Libres-Online-2024/liberta-track-cdk)
 
-Los repositorios listados corresponden a todo el código relacionado al desarrollo de la aplicación web/móvil y *deploy* de la solución en la nube de AWS Cloud.
+Los repositorios listados corresponden a todo el código relacionado al desarrollo de la aplicación web/móvil y *deploy* de la solución en AWS.
+
 
 # 7. Documentos Adicionales (Opcional)
 
-Locación: /[docs](https://github.com/DataJam-Pasos-Libres-2024/Project-Template/tree/main/docs)
+---
 
-•	Presentación PowerPoint 
+* **Arquitectura de solución del chatbot en AWS**
+
+![image](https://github.com/DataJam-Pasos-Libres-2024/LibertaTrack/assets/69759418/ea7d8c86-4e0c-454e-8057-0038abebbf76)
+
 
 •	Flayers
 
