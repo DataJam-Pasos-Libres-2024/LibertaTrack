@@ -123,6 +123,44 @@ Los repositorios listados corresponden a todo el código relacionado al desarrol
 
 ## 8.3. Instrucciones para ejecutar la aplicación móvil de forma local
 
+Sigue estos pasos para comenzar con el proyecto en React Native:
+
+1. **Clona el Repositorio**: Ejecuta el siguiente comando para clonar este repositorio en tu máquina local:
+
+```bash
+git clone https://github.com/Datajam-Pasos-Libres-Online-2024/LibertaTrackApp.git
+```
+
+2. **Instalación**: Navega al directorio del proyecto e instala las dependencias utilizando npm o yarn.
+
+```bash
+cd your-repo-name
+npm install   # or yarn install
+```   
+
+3. **Configuración**: Personaliza el proyecto según sea necesario editando archivos de configuración, como `.env`, y configurando tus puntos finales de API.
+
+4. **Ejecución en desarrollo**:
+- Para iOS:
+  ```bash
+  npx react-native run-ios
+  ```
+- Para Android:
+  ```bash
+  npx react-native run-android
+  ``` 
+
+5. **Construcción para producción**:
+- Para iOS, utiliza Xcode para construir tu aplicación para producción.
+- Para Android, sigue estos pasos para generar un APK o un AAB:
+  ```
+  cd android
+  ./gradlew bundleRelease  # Para AAB
+  ./gradlew assembleRelease  # Para APK
+  ```
+
+Recuerda que debes tener configurado el ambiente de desarrollo para React Native, incluyendo Node.js, Watchman, el Android SDK, y Xcode si estás desarrollando para iOS.
+
 ## 8.4. Instrucciones para ejecutar la aplicación web de forma local
 
 Sigue estos pasos para empezar con el proyecto:
