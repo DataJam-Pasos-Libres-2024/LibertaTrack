@@ -128,12 +128,35 @@ Los repositorios listados corresponden a todo el código relacionado al desarrol
 Sigue estos pasos para empezar con el proyecto:
 
 1. **Clona el Repositorio**: Ejecuta el siguiente comando para clonar este repositorio en tu máquina local:
+
 ```bash
 git clone https://github.com/Datajam-Pasos-Libres-Online-2024/liberta-track.git
 ```
+
 2. **Instalación**: Navega al directorio del proyecto e instala las dependencias utilizando tu gestor de paquetes preferido:
 
+```bash
+cd your-repo-name
+npm install   # or yarn install
+```   
+
+3. **Configuración**: Personaliza el proyecto según sea necesario editando archivos de configuración, como `.env`, y configurando tus puntos finales de API.
+
+4. **Desarrollo**: Inicia el servidor de desarrollo:
+
+   ```bash
+npm run dev   # or yarn dev
+```   
+
+5. **Construcción para Producción**: Cuando tu proyecto esté listo para el despliegue, crea una construcción de producción:
+
+   ```bash
+npm run build   # or yarn build
+```   
+
 ## 8.5. Arquitectura de solución del chatbot en AWS.
+
+
 
 ![image](https://github.com/DataJam-Pasos-Libres-2024/LibertaTrack/assets/69759418/e33c9cad-23c6-47a4-bd64-9cb6918fb606)
 
