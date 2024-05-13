@@ -5,26 +5,22 @@ Este es un repositorio de proyectos de investigación en el ámbito de la esclav
 Esto incluiría lo siguiente:
 
 # 1. Planteamiento del Problema
-
+---
 El centro de la DataJam Pasos Libres 2024 y de este documento se encuentra en buscar soluciones a la esclavitud moderna. De acuerdo con el Global Slavery Index 2023 (Walk Free, 2023) es un problema que abarca todos los aspectos de la sociedad, incluyendo la ropa que usamos, nuestros electrodomésticos y los alimentos que consumimos. La esclavitud moderna, es además de todo, una manifestación de una desigualdad extrema. Por su misma complejidad, este flagelo involucra un sinfín de causas tales como la pobreza o la migración forzada, y consecuencias como la explotación infantil, la trata de personas o la explotación
 sexual. Así las cosas, se hace necesario acotar el problema a escenarios y procesos específicos. En este caso, se hace énfasis en rol que juegan las empresas y sus cadenas de suministro. Así, algunas consideraciones relevantes para el trazado de los objetivos y el diseño de la solución son: 
 
 a). **La esclavitud moderna es un fenómeno creciente**. De acuerdo con las cifras del Global Slavery Index (2023) en el mundo hay aproximadamente 50 millones de personas en condición de esclavitud moderna, 10 millones más que en la última medición del 2016. De estas, 28 millones tienen trabajos forzados, 22 millones matrimonios forzados y 12 millones son casos de trabajo infantil. Así mismo, según este mismo informe, las acciones estatales son insuficientes alrededor del mundo en tanto los países que llevan la delantera en toma de acciones, no superan el 70% (United Kingdom 68%, Australia y Países Bajos 67%); y los de menor reacción incluso tienen porcentajes negativos (Corea del Norte -3%). 
 
-
 b) Aunque existen avances en el marco normativo de algunos países como Reino Unido (Ley de Esclavitud Moderna, 2015), Australia (Ley de Esclavitud Moderna, 2018) o Canadá (Ley de lucha contra el trabajo forzoso y el trabajo infantil en las cadenas de suministro, 2023), que exigen a las empresas reportar sus riesgos y acciones contra la esclavitud moderna, son **arreglos normativos que no en todos los casos logran su cometido y, sobre todo, cuyos alcances no tienen incidencia sobre los países más nafectados en Sur América, África o del Sudeste Asiático.**
-
 
 c) El mercado de trabajo, al menos en el caso colombiano, está sesgado hacia la pequeñez. Según cifras de la Misión de Empleo (Alvarado et al., 2021), **el 97% de las empresas tienen entre 1 a 3 trabajadores** y 81% son informales. Esta última condición de informalidad hace más vulnerables a trabajadores según lo reportado por Walk Free (2023). Además, teniendo en cuenta el tamaño de las empresas, es necesario pensar en estrategias de autodiagnóstico y fortalecimiento de capacidades en torno a la esclavitud moderna que sean accesibles en costos y recursos humanos para las micro y pequeñas empresas. 
 
-
 d) En la actualidad, **los mercados muestran favoritismo por empresas con prácticas sostenibles, socialmente responsables o de gobernanza**. Según un estudio de reciente de las consultoras McKinsey y NielsenIQ (Frey et al., 2023), los consumidores se preocupan por la sostenibilidad, la responsabilidad social y la gobernanza. Así, 78% de las personas encuestadas manifestaron que las prácticas responsables son importantes para ellas. Además, empresas que reportaron prácticas sostenibles, socialmente responsables o de gobernanza, crecieron 28%, mientras que aquellas que no lo hicieron crecieron 20%.
-
 
 e) **Existen esfuerzos invaluables por brindar información y recomendaciones gratuitas a las empresas que no tienen la acogida ni el impacto deseable**. Este podría ser el caso la Modern Slavery Benchmarking Tool. En ese sentido, se hace necesario rescatar estos estos esfuerzos y divulgar su uso como una alternativa efectiva y de bajo coste para las empresas, y también confiable y transparente para los consumidores.
 
 # 2. Objetivo
-
+---
 ## 2.1 Objetivo General
 Diseñar una herramienta de monitoreo y seguimiento que aliente y permita a las empresas evaluar e informar su progreso en la implementación de las recomendaciones para gestionar la esclavitud moderna proporcionadas por el Modern Slavery Benchmarking Tool de Walk Free.
 
@@ -48,6 +44,7 @@ Respondiendo al planteamiento del problema y los objetivos trazados, nuestra pro
 *  Acceder a una lista o catálogo de proveedores registrados cuyos principios empresariales se alineen con buenas prácticas, buenos puntajes y compromisos efectivos con la lucha contra la esclavitud moderna para favorecer alianzas o contratos de provisión de insumos.
 *  Tener un asistente virtual ChatBot que pueda responder a mis preguntas sobre los puntos anteriores para facilitar mi navegación en la plataforma.
 
+El segundo enfoque está relacionado con los consumidores y el rol primordial que juega la información para una adecuada respuesta de los mercados ante la esclavitud moderna. El diseño de nuestra herramienta LIBERTTRACK APP supone la facilidad de identificar con rapidez, tanto haciendo uso de la cámara para escanear los logotipos como de manera manual, las acciones que están llevando a cabo las empresas para luchar contra la esclavitud moderna. De igual manera LIBERTTRACK APP para consumidores contempla la implementación de acciones como:
 
 # 4. Pitch
 
