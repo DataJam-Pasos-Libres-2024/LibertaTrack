@@ -98,19 +98,30 @@ Locación: /[Organización de Github](https://github.com/orgs/Datajam-Pasos-Libr
 
 1. **Código del chatbot web**: [chatbot](https://github.com/Datajam-Pasos-Libres-Online-2024/chatbot-assistant)
 
-* Frameworks: Streamlit
-* Servicios de AWS: AWS Cloud Development Kit, AWS Lambda 
+* Frameworks: Streamlit.
+* Servicios de AWS: AWS Lambda, Amazon CloudWatch, Amazon Bedrock, Amazon OpenSearch, Amazon API Gateway, Amazon CloudFormation.
 
 3. **Base de conocimientos**: [Knowledgebase](https://github.com/Datajam-Pasos-Libres-Online-2024/knowledgebase)
 
-* Frameworks: Streamlit
-* Servicios de AWS: AWS Cloud Development Kit, AWS Lambda 
+* Frameworks: Ninguno.
+* Servicios de AWS: Amazon S3.
 
 5. **Aplicación web**: [liberta-track](https://github.com/Datajam-Pasos-Libres-Online-2024/liberta-track)
-6. **Aplicación móvil**: [libertaTrackApp](https://github.com/Datajam-Pasos-Libres-Online-2024/LibertaTrackApp)
-7. **Infraestructura como código de AWS**: [liberta-track-cdk](https://github.com/Datajam-Pasos-Libres-Online-2024/liberta-track-cdk)
 
-Los repositorios listados corresponden a todo el código relacionado al desarrollo de la aplicación web/móvil y *deploy* de la solución en AWS.
+* Frameworks: Vue, TypeScript, React.
+* Servicios de AWS: Amazon S3, Amazon Cognito, Amazon S3, Amazon Amplify.
+
+7. **Aplicación móvil**: [libertaTrackApp](https://github.com/Datajam-Pasos-Libres-Online-2024/LibertaTrackApp)
+
+* Frameworks: React Native.
+* Servicios de AWS: Amazon S3: Amazon Cognito, Amazon S3, Amazon Amplify. 
+  
+9. **Infraestructura como código de AWS**: [liberta-track-cdk](https://github.com/Datajam-Pasos-Libres-Online-2024/liberta-track-cdk)
+
+* Frameworks: React Native.
+* Servicios de AWS: AWS Cloud Development Kit. 
+
+Los repositorios listados corresponden a todo el código relacionado al desarrollo del chatbot, la aplicación web/móvil y el *deploy* de la arquitectura como código en AWS.
 
 # 7. Documentos Adicionales (Opcional)
 ---
