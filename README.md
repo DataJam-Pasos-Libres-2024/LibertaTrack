@@ -113,7 +113,7 @@ Los archivos listados son una serie de documentos en formato PDF que exploran el
 ---
 Locación: /[Organización de Github](https://github.com/orgs/Datajam-Pasos-Libres-Online-2024/repositories)
 
-1. **Código del chatbot web**: [chatbot](https://github.com/Datajam-Pasos-Libres-Online-2024/chatbot-assistant)
+1. **Código del chatbot**: [chatbot](https://github.com/Datajam-Pasos-Libres-Online-2024/chatbot-assistant)
 
 * Frameworks: Streamlit.
 * Servicios de AWS: AWS Lambda, Amazon CloudWatch, Amazon Bedrock, Amazon OpenSearch, Amazon API Gateway, Amazon CloudFormation.
