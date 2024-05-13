@@ -12,7 +12,7 @@ Esto incluiría lo siguiente:
    1. [Objetivo general](#1-objetivo-general)
    2. [Objetivo específico](#2-objetivo-especifico)
 3. [Descripción Solución/Caso Uso de Datos](#3-descipcion-solucion/caso-uso-de-datos)
-4. [Pitch](#1-Pitch)
+4. [Pitch](#1.-Pitch)
 5. [Datasets](#Datasets)
 6. [Código Proyecto](#Codigo-proyecto)
 7. [Documentos Adicionales (Opcional)](#Documentos-adicionales-(opcional))
