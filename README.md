@@ -81,9 +81,6 @@ Locación: /[datasets](modern-slavery-statement-registry.service.gov.uk)
 Los archivos listados son una serie de documentos en formato PDF que exploran el tema de la esclavitud moderna dentro de grandes cadenas de comida rápida y restaurantes. Cada archivo lleva el nombre de una cadena diferente, lo que indica que contienen información específica o reportes sobre las prácticas laborales de cada empresa respectivamente.
 
 
-
-•	Acceso API a los datos requeridos
-
 # 6. Código Proyecto
 
 Locación: /[Organización de Github](https://github.com/orgs/Datajam-Pasos-Libres-Online-2024/repositories)
@@ -94,7 +91,7 @@ Locación: /[Organización de Github](https://github.com/orgs/Datajam-Pasos-Libr
 * Aplicación móvil: [libertaTrackApp](https://github.com/Datajam-Pasos-Libres-Online-2024/LibertaTrackApp)
 * Infraestructura como código de AWS: [liberta-track-cdk](https://github.com/Datajam-Pasos-Libres-Online-2024/liberta-track-cdk)
 
-
+Los repositorios listados corresponden a todo el código relacionado al desarrollo de la aplicación web/móvil y *deploy* de la solución en la nube de AWS Cloud.
 
 # 7. Documentos Adicionales (Opcional)
 
