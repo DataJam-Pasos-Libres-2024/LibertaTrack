@@ -4,25 +4,25 @@ Este es un repositorio de proyectos de investigación en el ámbito de la esclav
 Esto incluiría lo siguiente:
 
 # Tabla de contenido
-0. [Nosotros](#Nosotros)
+0. [Nosotros](#0-Nosotros)
    1. [¿Quienes somos?](#1-¿Quienes-somos?)
    2. [Motivación para participar en la competencia](#2-Motivacion-para-participar)
 1. [Planteamiento del problema](#1-Planteamiento-del-problema)
-2. [Objetivo](#Objetivo)
+2. [Objetivo](#2-Objetivo)
    1. [Objetivo general](#1-objetivo-general)
    2. [Objetivo específico](#2-objetivo-especifico)
 3. [Descripción Solución/Caso Uso de Datos](#3-descipcion-solucion/caso-uso-de-datos)
 4. [Pitch](#4-Pitch)
-5. [Datasets](#Datasets)
-6. [Código Proyecto](#Codigo-proyecto)
-7. [Documentos Adicionales (Opcional)](#Documentos-adicionales-(opcional))
+5. [Datasets](#5-Datasets)
+6. [Código Proyecto](#6-Codigo-proyecto)
+7. [Documentos Adicionales (Opcional)](#7-Documentos-adicionales-(opcional))
    1. [Demo de LibertaTrack y Tech Stack](#1-demo-de-libertaTrack-y-tech-stack)
    2. [Pasos para lanzar la infraestructura como código](#2-pasos-para-lanzar-la-infraestructura-como-codigo)
    3. [Instrucciones para ejecutar la aplicación móvil de forma local](#3-instrucciones-para-ejecutar-la-aplicacion-movil-de-forma-local)
    4. [Instrucciones para ejecutar la aplicación web de forma local](#4-instrucciones-para-ejecutar-la-aplicacion-web-de-forma-local)
    5. [Arquitectura de solución del chatbot en AWS](#5-arquitectura-de-solucion-del-chatbot-en-AWS)
    6. [Propuesta de la arquitectura de solución en etapa de producción](#6-propuesta-de-la-arquitectura-de-solucion-en-etapa-de-produccion)
-8. [Referencias](#Referencias)
+8. [Referencias](#8-Referencias)
 
 # 0. Nosotros
 ---
