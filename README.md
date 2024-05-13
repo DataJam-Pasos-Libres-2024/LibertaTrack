@@ -162,7 +162,7 @@ Recuerda que el AWS CDK te permite definir tu infraestructura en código y despl
 
 ## 8.3. Instrucciones para ejecutar la aplicación móvil de forma local
 
-Sigue estos pasos para comenzar con el proyecto en React Native:
+Sigue estos pasos para comenzar con la aplicacón móvil:
 
 1. **Clona el Repositorio**: Ejecuta el siguiente comando para clonar este repositorio en tu máquina local:
 
@@ -202,7 +202,7 @@ Recuerda que debes tener configurado el ambiente de desarrollo para React Native
 
 ## 8.4. Instrucciones para ejecutar la aplicación web de forma local
 
-Sigue estos pasos para empezar con el proyecto:
+Sigue estos pasos para empezar con la aplicación web:
 
 1. **Clona el Repositorio**: Ejecuta el siguiente comando para clonar este repositorio en tu máquina local:
 
@@ -232,8 +232,6 @@ npm run build   # or yarn build
 ```   
 
 ## 8.5. Arquitectura de solución del chatbot en AWS.
-
-
 
 ![image](https://github.com/DataJam-Pasos-Libres-2024/LibertaTrack/assets/69759418/e33c9cad-23c6-47a4-bd64-9cb6918fb606)
 
