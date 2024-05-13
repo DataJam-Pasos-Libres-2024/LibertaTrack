@@ -103,10 +103,10 @@ Los repositorios listados corresponden a todo el código relacionado al desarrol
 
 [![LibertaTrack- Demo y Stack Tecnologico](https://img.youtube.com/vi/S7Z0mA_rRgI/0.jpg)](https://www.youtube.com/watch?v=S7Z0mA_rRgI)
 
-## 7.1. Arquitectura de solución del chatbot en AWS.
+## 7.2. Arquitectura de solución del chatbot en AWS.
 
 ![image](https://github.com/DataJam-Pasos-Libres-2024/LibertaTrack/assets/69759418/e33c9cad-23c6-47a4-bd64-9cb6918fb606)
 
-## 7.2. Propuesta de la arquitectura de solución en etapa de producción.
+## 7.3. Propuesta de la arquitectura de solución en etapa de producción.
 
 ![image](https://github.com/DataJam-Pasos-Libres-2024/LibertaTrack/assets/69759418/b2359630-ccee-459a-b26a-d096958e6f6b) 
