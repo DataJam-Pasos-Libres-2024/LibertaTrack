@@ -3,6 +3,26 @@
 Este es un repositorio de proyectos de investigación en el ámbito de la esclavitud moderna. Incluye todas las ideas de proyectos o temas de investigación que serían útiles para nuestro proyecto.
 Esto incluiría lo siguiente:
 
+# 0. Nosotros
+---
+## 0.1. ¿Quienes somos?
+
+Somos un equipo multidisciplinario. Cada integrante aporta habilidades que van desde el desarrollo de software y el análisis de datos, hasta el diseño, marketing y el conocimiento en derechos humanos y justicia social. Abordamos problemas desde múltiples perspectivas para crear soluciones innovadoras. Tenemos sólida experiencia trabajando juntos en proyectos anteriores y promovemos una dinámica de equipo que impulsa la creatividad, inclusión e innovación.
+
+![image](https://github.com/DataJam-Pasos-Libres-2024/LibertaTrack/assets/69759418/34242383-64eb-4cf2-99de-74f1dd5b9174)
+
+## 0.2. ¿Por qué quieren participar en la DataJam Pasos Libres y por qué los organizadores deberían seleccionarlos para participar en la competencia?
+
+Estimados organizadores de la Datajam Pasos Libres.
+
+Nuestra motivación surge de un compromiso compartido con la justicia social y la convicción de que la tecnología y el análisis de datos pueden ser catalizadores poderosos para el cambio. Juntos, queremos aplicar nuestra pasión y habilidades para contribuir significativamente a la lucha contra la esclavitud moderna. Por tal razón, valoramos profundamente la oportunidad de mentoría y colaboración que la DataJam ofrece. Creemos que aprender de los expertos y colaborar con otros equipos puede potenciar nuestra capacidad para enfrentar los retos planteados y, en consecuencia, fortalecer el impacto de nuestras soluciones. 
+
+Realmente confiamos en que nuestra mezcla única de habilidades, pasión y visión hará una contribución valiosa a la DataJam Pasos Libres. Además, entendemos que la decisión final de inclusión en la DataJam Pasos Libres está en sus manos. Apreciamos profundamente la consideración que puedan dar a nuestra solicitud y nos comprometemos, si somos seleccionados, a aportar no sólo nuestras habilidades y dedicación, sino también un espíritu de innovación y colaboración que creemos es central para el éxito de este evento. 
+
+Estamos ansiosos por la posibilidad de ser seleccionados y aportar nuestro entusiasmo y conocimientos en la lucha contra la esclavitud moderna. Además, no nos cabe duda que nuestro equipo no solo cumplirá con las expectativas de la competencia, sino que las excederá, aportando soluciones creativas y eficaces.
+
+
+
 # 1. Planteamiento del Problema
 ---
 El centro de la DataJam Pasos Libres 2024 y de este documento se encuentra en buscar soluciones a la esclavitud moderna. De acuerdo con el Global Slavery Index 2023 (Walk Free, 2023) es un problema que abarca todos los aspectos de la sociedad, incluyendo la ropa que usamos, nuestros electrodomésticos y los alimentos que consumimos. La esclavitud moderna, es además de todo, una manifestación de una desigualdad extrema. Por su misma complejidad, este flagelo involucra un sinfín de causas tales como la pobreza o la migración forzada, y consecuencias como la explotación infantil, la trata de personas o la explotación
@@ -19,9 +39,7 @@ d) En la actualidad, **los mercados muestran favoritismo por empresas con práct
 e) **Existen esfuerzos invaluables por brindar información y recomendaciones gratuitas a las empresas que no tienen la acogida ni el impacto deseable**. Este podría ser el caso la Modern Slavery Benchmarking Tool. En ese sentido, se hace necesario rescatar estos estos esfuerzos y divulgar su uso como una alternativa efectiva y de bajo coste para las empresas, y también confiable y transparente para los consumidores.
 
 # 2. Objetivo
-
 ---
-
 ## 2.1 Objetivo General
 Diseñar una herramienta de monitoreo y seguimiento que aliente y permita a las empresas evaluar e informar su progreso en la implementación de las recomendaciones para gestionar la esclavitud moderna proporcionadas por el Modern Slavery Benchmarking Tool de Walk Free.
 
@@ -34,9 +52,7 @@ Diseñar una herramienta de monitoreo y seguimiento que aliente y permita a las 
 *  Diseñar un ChatBot que permita a los usuarios de la herramienta, tanto consumidores como empresas, acceder a información y funcionalidades de manera ágil y confiable.
 
 # 3. Descripción Solución/Caso Uso de Datos
-
 ---
-
 Respondiendo al planteamiento del problema y los objetivos trazados, nuestra propuesta de solución abarca dos enfoques. El primero involucra a las empresas en el reporte y transparencia con sus acciones específicas y el aprovechamiento de la Mondern Slavery Benchmarking Tool. Así, listamos a continuación las funcionalidades de LIBERTTRACK para las empresas:
 
 * Reportar de manera voluntaria, autónoma y segura las acciones que se están implementando para luchar contra la esclavitud moderna y así mostrar a los consumidores, inversionistas, gobierno y ONG el trabajo y compromiso en la luchar contra la esclavitud moderna.
@@ -62,18 +78,14 @@ El segundo enfoque está relacionado con los consumidores y el rol primordial qu
 El diseño de nuestra herramienta cuenta con recursos explicativos anexos en el GitHub. Para su elaboración consideramos los Datasets entregados por los organizadores, así como la información pública de 5 restaurantes de cadena cuyos informes atienden a las exigencias de las leyes de Reino Unido. Por tanto, en la elaboración de esta propuesta fue esencial la información disponible en el Modern slavery statement registry de Reino Unido disponible en [Modern slavery statement registry - GOV.UK](modern-slavery-statement-registry.service.gov.uk).
 
 # 4. Pitch
-
 ---
-
 A continuacion el link del Pitch: 
 
 [![LibertaTrack - DataJam Pasos Libres 2024](https://img.youtube.com/vi/ALWR6g8gBBA/0.jpg)](https://www.youtube.com/watch?v=ALWR6g8gBBA)
 
 
 # 5. Datasets
-
 ---
-
 Locación: /[datasets](modern-slavery-statement-registry.service.gov.uk)
 
 * Base de conocimientos: [Knowledgebase](https://github.com/Datajam-Pasos-Libres-Online-2024/knowledgebase)
@@ -82,9 +94,7 @@ Los archivos listados son una serie de documentos en formato PDF que exploran el
 
 
 # 6. Código Proyecto
-
 ---
-
 Locación: /[Organización de Github](https://github.com/orgs/Datajam-Pasos-Libres-Online-2024/repositories)
 
 * Código del chatbot web: [chatbot](https://github.com/Datajam-Pasos-Libres-Online-2024/chatbot-assistant)
@@ -96,9 +106,7 @@ Locación: /[Organización de Github](https://github.com/orgs/Datajam-Pasos-Libr
 Los repositorios listados corresponden a todo el código relacionado al desarrollo de la aplicación web/móvil y *deploy* de la solución en AWS.
 
 # 7. Referencias
-
 ---
-
 * Alvarado, F., Álvarez, A., Chaparro, J. C., González, C., Levy, S., Maldonado, D., ... & Villaveces, M. J. (2021). Reporte ejecutivo de la Misión de Empleo de Colombia. Bogotá, DC, Colombia: Ministerio de Trabajo-DNP.
 * AU Modern Slavery Act 2018. An Act to require some entities to report on the risks of modern slavery in their operations and supply chains and actions to address those risks, and for related purposes. 10th December 2018.
 * CA S.C. 2023, c. 9. An Act to enact the Fighting Against Forced Labour and Child Labour in Supply Chains Act and to amend the Customs Tariff. 1th May 2023
@@ -107,21 +115,21 @@ Los repositorios listados corresponden a todo el código relacionado al desarrol
 * Walk Free (2023). The Global Slavery Index 2023, Minderoo Foundation. Recuperado de https://walkfree.org/global-slavery-index
 
 # 8. Documentos Adicionales (Opcional)
-
-
 ---
 ## 8.1. Demo de LibertaTrack y Tech Stack
 
 [![LibertaTrack- Demo y Stack Tecnologico](https://img.youtube.com/vi/S7Z0mA_rRgI/0.jpg)](https://www.youtube.com/watch?v=S7Z0mA_rRgI)
 
-## 8.2. Instrucciones para ejecutar la aplicación móvil de forma local
+## 8.2. Pasos para lanzar la infraestructura como código
 
-## 8.3. Instrucciones para ejecutar la aplicación web de forma local
+## 8.3. Instrucciones para ejecutar la aplicación móvil de forma local
 
-## 8.4. Arquitectura de solución del chatbot en AWS.
+## 8.4. Instrucciones para ejecutar la aplicación web de forma local
+
+## 8.5. Arquitectura de solución del chatbot en AWS.
 
 ![image](https://github.com/DataJam-Pasos-Libres-2024/LibertaTrack/assets/69759418/e33c9cad-23c6-47a4-bd64-9cb6918fb606)
 
-## 8.5. Propuesta de la arquitectura de solución en etapa de producción.
+## 8.6. Propuesta de la arquitectura de solución en etapa de producción.
 
 ![image](https://github.com/DataJam-Pasos-Libres-2024/LibertaTrack/assets/69759418/b2359630-ccee-459a-b26a-d096958e6f6b) 
