@@ -9,7 +9,7 @@ Esto incluiría lo siguiente:
 
 Somos un equipo multidisciplinario. Cada integrante aporta habilidades que van desde el desarrollo de software y el análisis de datos, hasta el diseño, marketing y el conocimiento en derechos humanos y justicia social. Abordamos problemas desde múltiples perspectivas para crear soluciones innovadoras. Tenemos sólida experiencia trabajando juntos en proyectos anteriores y promovemos una dinámica de equipo que impulsa la creatividad, inclusión e innovación.
 
-![image](https://github.com/DataJam-Pasos-Libres-2024/LibertaTrack/assets/69759418/34242383-64eb-4cf2-99de-74f1dd5b9174)
+![image](https://github.com/DataJam-Pasos-Libres-2024/LibertaTrack/assets/69759418/2530b6a5-a497-4b50-9d29-403ed97acdf7)
 
 ## 0.2. ¿Por qué quieren participar en la DataJam Pasos Libres y por qué los organizadores deberían seleccionarlos para participar en la competencia?
 
