@@ -9,7 +9,7 @@ Esto incluiría lo siguiente:
 
 Somos un equipo multidisciplinario. Cada integrante aporta habilidades que van desde el desarrollo de software y el análisis de datos, hasta el diseño, marketing y el conocimiento en derechos humanos y justicia social. Abordamos problemas desde múltiples perspectivas para crear soluciones innovadoras. Tenemos sólida experiencia trabajando juntos en proyectos anteriores y promovemos una dinámica de equipo que impulsa la creatividad, inclusión e innovación.
 
-![image](https://github.com/DataJam-Pasos-Libres-2024/LibertaTrack/assets/69759418/2530b6a5-a497-4b50-9d29-403ed97acdf7)
+![image](https://github.com/DataJam-Pasos-Libres-2024/LibertaTrack/assets/69759418/67d88d24-241b-45b5-92fd-48fc74da8691)
 
 ## 0.2. ¿Por qué quieren participar en la DataJam Pasos Libres y por qué los organizadores deberían seleccionarlos para participar en la competencia?
 
@@ -20,8 +20,6 @@ Nuestra motivación surge de un compromiso compartido con la justicia social y l
 Realmente confiamos en que nuestra mezcla única de habilidades, pasión y visión hará una contribución valiosa a la DataJam Pasos Libres. Además, entendemos que la decisión final de inclusión en la DataJam Pasos Libres está en sus manos. Apreciamos profundamente la consideración que puedan dar a nuestra solicitud y nos comprometemos, si somos seleccionados, a aportar no sólo nuestras habilidades y dedicación, sino también un espíritu de innovación y colaboración que creemos es central para el éxito de este evento. 
 
 Estamos ansiosos por la posibilidad de ser seleccionados y aportar nuestro entusiasmo y conocimientos en la lucha contra la esclavitud moderna. Además, no nos cabe duda que nuestro equipo no solo cumplirá con las expectativas de la competencia, sino que las excederá, aportando soluciones creativas y eficaces.
-
-
 
 # 1. Planteamiento del Problema
 ---
