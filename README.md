@@ -104,24 +104,15 @@ Locación: /[Organización de Github](https://github.com/orgs/Datajam-Pasos-Libr
 
 Los repositorios listados corresponden a todo el código relacionado al desarrollo de la aplicación web/móvil y *deploy* de la solución en AWS.
 
-# 7. Referencias
+# 7. Documentos Adicionales (Opcional)
 ---
-* Alvarado, F., Álvarez, A., Chaparro, J. C., González, C., Levy, S., Maldonado, D., ... & Villaveces, M. J. (2021). Reporte ejecutivo de la Misión de Empleo de Colombia. Bogotá, DC, Colombia: Ministerio de Trabajo-DNP.
-* AU Modern Slavery Act 2018. An Act to require some entities to report on the risks of modern slavery in their operations and supply chains and actions to address those risks, and for related purposes. 10th December 2018.
-* CA S.C. 2023, c. 9. An Act to enact the Fighting Against Forced Labour and Child Labour in Supply Chains Act and to amend the Customs Tariff. 1th May 2023
-* Frey, S. B. A. J., Am, J. B., Doshi, V., Malik, A., & Noble, S. (2023). Consumers Care about Sustainability and Back It Up with Their Wallets. Mckinsey and Company
-* UK Modern Slavery Act 2015. An Act to make provision about slavery, servitude and forced or compulsory labour and about human trafficking, including provision for the protection of victims; to make provision for an Independent Anti-slavery Commissioner; and for connected purposes. 26th March 2015. 
-* Walk Free (2023). The Global Slavery Index 2023, Minderoo Foundation. Recuperado de https://walkfree.org/global-slavery-index
-
-# 8. Documentos Adicionales (Opcional)
----
-## 8.1. Demo de LibertaTrack y Tech Stack
+## 7.1. Demo de LibertaTrack y Tech Stack
 
 A continuacion el link del demo de LibertaTrack y el Tech Stack:
 
 [![LibertaTrack- Demo y Stack Tecnologico](https://img.youtube.com/vi/S7Z0mA_rRgI/0.jpg)](https://www.youtube.com/watch?v=S7Z0mA_rRgI)
 
-## 8.2. Pasos para lanzar la infraestructura como código
+## 7.2. Pasos para lanzar la infraestructura como código
 
 Sigue estos pasos para desplegar con AWS CDK:
 
@@ -160,7 +151,7 @@ npm install   # or yarn install
 
 Recuerda que el AWS CDK te permite definir tu infraestructura en código y desplegarla mediante comandos. Asegúrate de tener la última versión del CDK instalada para evitar problemas de compatibilidad con las nuevas características de AWS.
 
-## 8.3. Instrucciones para ejecutar la aplicación móvil de forma local
+## 7.3. Instrucciones para ejecutar la aplicación móvil de forma local
 
 Sigue estos pasos para comenzar con la aplicacón móvil:
 
@@ -204,7 +195,7 @@ Recuerda que debes tener configurado el ambiente de desarrollo para React Native
 ![image](https://github.com/DataJam-Pasos-Libres-2024/LibertaTrack/assets/69759418/048db797-a51d-4d69-b1a0-e94c22e91249)
 ![image](https://github.com/DataJam-Pasos-Libres-2024/LibertaTrack/assets/69759418/e796cb58-63e1-4b64-8108-5122b57b1649)
 
-## 8.4. Instrucciones para ejecutar la aplicación web de forma local
+## 7.4. Instrucciones para ejecutar la aplicación web de forma local
 
 Sigue estos pasos para empezar con la aplicación web:
 
@@ -247,7 +238,7 @@ npm run build   # or yarn build
 ![image](https://github.com/DataJam-Pasos-Libres-2024/LibertaTrack/assets/69759418/865bd9b9-9275-46e3-ac33-51f079e2fb09)
 
 
-## 8.5. Arquitectura de solución del chatbot en AWS.
+## 7.5. Arquitectura de solución del chatbot en AWS.
 
 A continuación se presenta la arquitectura de solución realizada del chabot en AWS:
 
@@ -269,7 +260,7 @@ La arquitectura mostrado es para un chatbot que opera utilizando diversos servic
 
 7. **AWS CloudFormation**: Permite a los desarrolladores y a las empresas automatizar el despliegue y la gestión de la infraestructura como código. En esta arquitectura, se utiliza para orquestar y manejar la creación y gestión de todos los recursos AWS utilizados por el chatbot.
 
-## 8.6. Propuesta de la arquitectura de solución en etapa de producción.
+## 7.6. Propuesta de la arquitectura de solución en etapa de producción.
 
 A continuación se presenta la arquitectura de solución propuesta si se optará por sacar la aplicación web a producción:
 
@@ -305,5 +296,11 @@ La arquitectura presentada en el diagrama garantiza una aplicación con un enfoq
 
 Esta arquitectura proporciona una solución robusta para LibertaTrack web que requieren un alto nivel de operatividad, adaptabilidad ante cambios de carga y una defensa sólida contra accesos no autorizados y otros riesgos de seguridad por datos sensibles de las empresas.
 
-
-
+# 8. Referencias
+---
+* Alvarado, F., Álvarez, A., Chaparro, J. C., González, C., Levy, S., Maldonado, D., ... & Villaveces, M. J. (2021). Reporte ejecutivo de la Misión de Empleo de Colombia. Bogotá, DC, Colombia: Ministerio de Trabajo-DNP.
+* AU Modern Slavery Act 2018. An Act to require some entities to report on the risks of modern slavery in their operations and supply chains and actions to address those risks, and for related purposes. 10th December 2018.
+* CA S.C. 2023, c. 9. An Act to enact the Fighting Against Forced Labour and Child Labour in Supply Chains Act and to amend the Customs Tariff. 1th May 2023
+* Frey, S. B. A. J., Am, J. B., Doshi, V., Malik, A., & Noble, S. (2023). Consumers Care about Sustainability and Back It Up with Their Wallets. Mckinsey and Company
+* UK Modern Slavery Act 2015. An Act to make provision about slavery, servitude and forced or compulsory labour and about human trafficking, including provision for the protection of victims; to make provision for an Independent Anti-slavery Commissioner; and for connected purposes. 26th March 2015. 
+* Walk Free (2023). The Global Slavery Index 2023, Minderoo Foundation. Recuperado de https://walkfree.org/global-slavery-index
