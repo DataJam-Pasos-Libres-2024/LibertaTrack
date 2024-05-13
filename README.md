@@ -68,6 +68,7 @@ El diseño de nuestra herramienta cuenta con recursos explicativos anexos en el 
 ---
 
 A continuacion el link del Pitch: 
+
 [![LibertaTrack - DataJam Pasos Libres 2024](https://img.youtube.com/vi/ALWR6g8gBBA/0.jpg)](https://www.youtube.com/watch?v=ALWR6g8gBBA)
 
 
