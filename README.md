@@ -102,7 +102,7 @@ A continuacion el link del Pitch:
 
 # 5. Datasets
 ---
-Locación: [datasets](modern-slavery-statement-registry.service.gov.uk)
+Locación: [dataset](https://modern-slavery-statement-registry.service.gov.uk)
 
 * Base de conocimientos: [Knowledgebase](https://github.com/Datajam-Pasos-Libres-Online-2024/knowledgebase)
 
