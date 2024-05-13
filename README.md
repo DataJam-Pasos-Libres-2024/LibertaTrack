@@ -235,6 +235,25 @@ npm run build   # or yarn build
 
 ![image](https://github.com/DataJam-Pasos-Libres-2024/LibertaTrack/assets/69759418/e33c9cad-23c6-47a4-bd64-9cb6918fb606)
 
+La arquitectura mostrado es para un chatbot que opera utilizando diversos servicios de AWS (Amazon Web Services). Aquí se detallo cómo funciona cada componente de esta arquitectura:
+
+1. **Cliente**: Representa al usuario final que interactúa con el chatbot. Este puede ser cualquier dispositivo o interfaz que envía preguntas al chatbot.
+
+2. **LLM Response (Respuesta de Modelo de Lenguaje Grande)**: Este componente es el encargado de procesar la entrada del usuario (la pregunta) y generar una respuesta utilizando el modelo de Claude 2.1.
+
+3. **AWS Lambda**: Es un servicio de computación sin servidor que ejecuta código en respuesta a eventos. En esta arquitectura, Lambda manejan la lógica de negocio del chatbot, como recibir preguntas del cliente, enviarlas al modelo de lenguaje, recibir la respuesta y luego devolverla al cliente.
+
+4. **Amazon Bedrock**: Amazon Bedrock es un servicio totalmente administrado que ofrece una selección de modelos fundacionales (FM) de alto rendimiento de las principales empresas de IA como AI21 Labs, Anthropic, Cohere, Meta, Mistral AI, Stability AI y Amazon a través de una sola API. Para este caso, se personalizo de forma privada con los datos  de las empresas mediante la téncnica de generación aumentada de recuperación (RAG).
+
+5. **Amazon OpenSearch Service**: Este servicio permite la búsqueda y análisis de grandes volúmenes de datos. En el contexto de un chatbot, se usa como base de datos vectorial para buscar respuestas o información relevante en un conjunto de datos, basándose en la entrada del usuario.
+
+6. **Amazon Simple Storage Service (Amazon S3)**: Este es un servicio de almacenamiento de objetos que ofrece escala, disponibilidad de datos, seguridad y rendimiento. Aquí, se utiliza para almacenar los documentos de las empresas que el chatbot podría necesitar consultar.
+
+7. **AWS CloudFormation**: Permite a los desarrolladores y a las empresas automatizar el despliegue y la gestión de la infraestructura como código. En esta arquitectura, se utiliza para orquestar y manejar la creación y gestión de todos los recursos AWS utilizados por el chatbot.
+
 ## 8.6. Propuesta de la arquitectura de solución en etapa de producción.
 
 ![image](https://github.com/DataJam-Pasos-Libres-2024/LibertaTrack/assets/69759418/b2359630-ccee-459a-b26a-d096958e6f6b) 
+
+
+
