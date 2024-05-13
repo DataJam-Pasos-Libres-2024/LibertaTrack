@@ -117,9 +117,48 @@ Los repositorios listados corresponden a todo el código relacionado al desarrol
 ---
 ## 8.1. Demo de LibertaTrack y Tech Stack
 
+A continuacion el link del demo de LibertaTrack y el Tech Stack:
+
 [![LibertaTrack- Demo y Stack Tecnologico](https://img.youtube.com/vi/S7Z0mA_rRgI/0.jpg)](https://www.youtube.com/watch?v=S7Z0mA_rRgI)
 
 ## 8.2. Pasos para lanzar la infraestructura como código
+
+Sigue estos pasos para desplegar con AWS CDK:
+
+1. **Clona el Repositorio**: Ejecuta el siguiente comando para clonar este repositorio en tu máquina local:
+
+```bash
+git clone https://github.com/Datajam-Pasos-Libres-Online-2024/liberta-track-cdk.git
+```
+
+2. **Instalación**: Navega al directorio del proyecto e instala las dependencias utilizando npm o yarn.
+
+```bash
+cd your-repo-name
+npm install   # or yarn install
+```   
+
+3. **Configuración**: Personaliza el proyecto según sea necesario editando archivos de configuración, como `.env`, y configurando tus puntos finales de API.
+
+4. **Compilar el proyecto** (si tu proyecto utiliza TypeScript o algún otro lenguaje que necesite compilación):
+
+```bash
+cd your-repo-name
+npm install   # or yarn install
+```   
+
+5. **Despliegue**:
+- Ejecuta el comando de despliegue de CDK para desplegar tu stack en AWS:
+  ```bash
+  cdk deploy
+  ```
+- Si tienes múltiples stacks o necesitas especificar configuraciones adicionales, puedes agregar los nombres de los stacks y opciones adicionales:
+  ```bash
+  cdk deploy nombre-del-stack --parameters miParametro=valor
+  ```
+6. **Verificación**: Verifica que los recursos se hayan desplegado correctamente en la consola de AWS o utilizando el AWS CLI para listar los recursos.
+
+Recuerda que el AWS CDK te permite definir tu infraestructura en código y desplegarla mediante comandos. Asegúrate de tener la última versión del CDK instalada para evitar problemas de compatibilidad con las nuevas características de AWS.
 
 ## 8.3. Instrucciones para ejecutar la aplicación móvil de forma local
 
