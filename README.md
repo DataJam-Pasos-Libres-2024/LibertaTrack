@@ -34,7 +34,16 @@ Diseñar una herramienta de monitoreo y seguimiento que aliente y permita a las 
 
 # 3. Descripción Solución/Caso Uso de Datos
 
-Una descripción completa de la solución basada en datos o el caso de uso de datos.
+Respondiendo al planteamiento del problema y los objetivos trazados, nuestra propuesta de solución abarca dos enfoques. El primero involucra a las empresas en el reporte y transparencia con sus acciones específicas y el aprovechamiento de la Mondern Slavery Benchmarking Tool. Así, listamos a continuación las funcionalidades de LIBERTTRACK para las empresas:
+
+* Reportar de manera voluntaria, autónoma y segura las acciones que se están implementando para luchar contra la esclavitud moderna y así mostrar a los consumidores, inversionistas, gobierno y ONG el trabajo y compromiso en la luchar contra la esclavitud moderna.
+* Acceder a la *Modern Slavery Benchmarking Tool* para diligenciar el formulario de diagnóstico y tener en una lista de chequeo las acciones recomendadas para mejorar y mostrar los avances de la empresa.
+* Que la información arrojada en la Modern Slavery Benchmarking Tool pueda ser (1) privada, (2) pública para los empleados o (3) pública para todas las personas según la estrategia de mejoramiento más conveniente.
+* Registrar en la plataforma a los empleados y colaboradores para poder involucrarlos en las acciones de mejora emprendidas y sensibilizarlos sobre la esclavitud moderna.
+* Acceder a información sobre qué es la esclavitud moderna y cuáles organizaciones trabajan sobre ella.
+*  Acceder a una lista o catálogo de proveedores registrados cuyos principios empresariales se alineen con buenas prácticas, buenos puntajes y compromisos efectivos con la lucha contra la esclavitud moderna para favorecer alianzas o contratos de provisión de insumos.
+*  Tener un asistente virtual ChatBot que pueda responder a mis preguntas sobre los puntos anteriores para facilitar mi navegación en la plataforma.
+
 
 # 4. Pitch
 
