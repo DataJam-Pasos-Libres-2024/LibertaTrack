@@ -1,4 +1,4 @@
-# LibertaTrack
+![image](https://github.com/DataJam-Pasos-Libres-2024/LibertaTrack/assets/69759418/37d500c1-6c5e-4b69-891c-239be5f62a8b)# LibertaTrack
 # DataJam Pasos Libres 2024 – LibertaTrack
 
 Este es un repositorio de proyectos de investigación en el ámbito de la esclavitud moderna. Incluye todas las ideas de proyectos o temas de investigación que serían útiles para nuestro proyecto.
@@ -69,9 +69,9 @@ El diseño de nuestra herramienta cuenta con recursos explicativos anexos en el 
 ---
 
 A continuacion el link del Pitch: 
+[![Comprehensive Markdown Crash Course](![image](https://github.com/DataJam-Pasos-Libres-2024/LibertaTrack/assets/69759418/38685a04-b38d-491e-b0d4-32aa137c70f6)
+)](https://www.youtube.com/watch?v=ALWR6g8gBBA "LibertaTrack - DataJam Pasos Libres 2024")
 
-[[![Comprehensive Markdown Crash Course](https://img.youtube.com/vi/FEa2diI2qgA/mqdefault.jpg)](https://www.youtube.com/watch?v=FEa2diI2qgA "Título alternativo")
-](https://www.youtube.com/watch?v=ALWR6g8gBBA)
 
 # 5. Datasets
 
