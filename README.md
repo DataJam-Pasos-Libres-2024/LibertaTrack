@@ -70,8 +70,8 @@ El diseño de nuestra herramienta cuenta con recursos explicativos anexos en el 
 
 A continuacion el link del Pitch: 
 
-<iframe width="320" height="180" src="LIBERTTRACK - DataJam Pasos Libres 2024" title="LibertaTrack - DataJam Pasos Libres 2024" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="1"></iframe>
-
+[[![Comprehensive Markdown Crash Course](https://img.youtube.com/vi/FEa2diI2qgA/mqdefault.jpg)](https://www.youtube.com/watch?v=FEa2diI2qgA "Título alternativo")
+](https://www.youtube.com/watch?v=ALWR6g8gBBA)
 
 # 5. Datasets
 
