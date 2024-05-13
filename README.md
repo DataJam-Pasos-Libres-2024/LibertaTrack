@@ -61,7 +61,7 @@ El segundo enfoque está relacionado con los consumidores y el rol primordial qu
 
 **Sobre el prototipo LibertaTrack**
 
-El diseño de nuestra herramienta cuenta con recursos explicativos anexos en el GitHub. Para su elaboración consideramos los Data Sets entregados por los organizadores, así como la información pública de 5 restaurantes de cadena cuyos informes atienden a las exigencias de las leyes de Reino Unido. Por tanto, en la elaboración de esta propuesta fue esencial la información disponible en el Modern slavery statement registry de Reino Unido disponible en [Modern slavery statement registry - GOV.UK](modern-slavery-statement-registry.service.gov.uk).
+El diseño de nuestra herramienta cuenta con recursos explicativos anexos en el GitHub. Para su elaboración consideramos los Datasets entregados por los organizadores, así como la información pública de 5 restaurantes de cadena cuyos informes atienden a las exigencias de las leyes de Reino Unido. Por tanto, en la elaboración de esta propuesta fue esencial la información disponible en el Modern slavery statement registry de Reino Unido disponible en [Modern slavery statement registry - GOV.UK](modern-slavery-statement-registry.service.gov.uk).
 
 # 4. Pitch
 
@@ -74,29 +74,21 @@ A continuacion el link del Pitch:
 
 # 5. Datasets
 
-Locación: /[datasets](https://github.com/DataJam-Pasos-Libres-2024/Project-Template/tree/main/datasets)
+Locación: /[datasets](modern-slavery-statement-registry.service.gov.uk)
 
 Una lista de conjuntos de datos, fuentes y desafíos para el proyecto. Esto incluiría:
 
 •	Acceso API a los datos requeridos
 
-•	Acceso a otros conjuntos de datos (ya sea a través de API o descargados)
-
-•	Declaraciones sobre problemas de calidad de datos, transformaciones necesarias
-
-•	Contenedor para nuevos datos generados para esta investigación (es decir, mediante la fusión de otros conjuntos de datos)
-
 # 6. Código Proyecto
 
-Locación: /[project](https://github.com/DataJam-Pasos-Libres-2024/Project-Template/tree/main/project)
+Locación: /[project](modern-slavery-statement-registry.service.gov.uk)
+Archivos listados: [Base de conocimientos]https://github.com/Datajam-Pasos-Libres-Online-2024/knowledgebase
 
 Esto incluiría lo siguiente:
 
-•	Transformaciones de datos, fusión y garantía de calidad
+Los archivos listados son una serie de documentos en formato PDF que exploran el tema de la esclavitud moderna dentro de grandes cadenas de comida rápida y restaurantes. Cada archivo lleva el nombre de una cadena diferente, lo que indica que contienen información específica o reportes sobre las prácticas laborales de cada empresa respectivamente.
 
-•	Código relacionado con el modelo (proyección, predicción, correlación, etc.)
-
-•	Código de interfaz de usuario
 
 # 7. Documentos Adicionales (Opcional)
 
