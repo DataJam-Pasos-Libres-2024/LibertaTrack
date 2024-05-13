@@ -8,7 +8,7 @@ Esto incluiría lo siguiente:
 
 ---
 
-...El centro de la DataJam Pasos Libres 2024 y de este documento se encuentra en buscar soluciones a la esclavitud moderna. De acuerdo con el Global Slavery Index 2023 (Walk Free, 2023) es un problema que abarca todos los aspectos de la sociedad, incluyendo la ropa que usamos, nuestros electrodomésticos y los alimentos que consumimos. La esclavitud moderna, es además de todo, una manifestación de una desigualdad extrema. Por su misma complejidad, este flagelo involucra un sinfín de causas tales como la pobreza o la migración forzada, y consecuencias como la explotación infantil, la trata de personas o la explotación
+El centro de la DataJam Pasos Libres 2024 y de este documento se encuentra en buscar soluciones a la esclavitud moderna. De acuerdo con el Global Slavery Index 2023 (Walk Free, 2023) es un problema que abarca todos los aspectos de la sociedad, incluyendo la ropa que usamos, nuestros electrodomésticos y los alimentos que consumimos. La esclavitud moderna, es además de todo, una manifestación de una desigualdad extrema. Por su misma complejidad, este flagelo involucra un sinfín de causas tales como la pobreza o la migración forzada, y consecuencias como la explotación infantil, la trata de personas o la explotación
 sexual. Así las cosas, se hace necesario acotar el problema a escenarios y procesos específicos. En este caso, se hace énfasis en rol que juegan las empresas y sus cadenas de suministro. Así, algunas consideraciones relevantes para el trazado de los objetivos y el diseño de la solución son: 
 
 a). **La esclavitud moderna es un fenómeno creciente**. De acuerdo con las cifras del Global Slavery Index (2023) en el mundo hay aproximadamente 50 millones de personas en condición de esclavitud moderna, 10 millones más que en la última medición del 2016. De estas, 28 millones tienen trabajos forzados, 22 millones matrimonios forzados y 12 millones son casos de trabajo infantil. Así mismo, según este mismo informe, las acciones estatales son insuficientes alrededor del mundo en tanto los países que llevan la delantera en toma de acciones, no superan el 70% (United Kingdom 68%, Australia y Países Bajos 67%); y los de menor reacción incluso tienen porcentajes negativos (Corea del Norte -3%). 
@@ -22,7 +22,9 @@ d) En la actualidad, **los mercados muestran favoritismo por empresas con práct
 e) **Existen esfuerzos invaluables por brindar información y recomendaciones gratuitas a las empresas que no tienen la acogida ni el impacto deseable**. Este podría ser el caso la Modern Slavery Benchmarking Tool. En ese sentido, se hace necesario rescatar estos estos esfuerzos y divulgar su uso como una alternativa efectiva y de bajo coste para las empresas, y también confiable y transparente para los consumidores.
 
 # 2. Objetivo
+
 ---
+
 ## 2.1 Objetivo General
 Diseñar una herramienta de monitoreo y seguimiento que aliente y permita a las empresas evaluar e informar su progreso en la implementación de las recomendaciones para gestionar la esclavitud moderna proporcionadas por el Modern Slavery Benchmarking Tool de Walk Free.
 
@@ -36,6 +38,8 @@ Diseñar una herramienta de monitoreo y seguimiento que aliente y permita a las 
 
 # 3. Descripción Solución/Caso Uso de Datos
 
+---
+
 Respondiendo al planteamiento del problema y los objetivos trazados, nuestra propuesta de solución abarca dos enfoques. El primero involucra a las empresas en el reporte y transparencia con sus acciones específicas y el aprovechamiento de la Mondern Slavery Benchmarking Tool. Así, listamos a continuación las funcionalidades de LIBERTTRACK para las empresas:
 
 * Reportar de manera voluntaria, autónoma y segura las acciones que se están implementando para luchar contra la esclavitud moderna y así mostrar a los consumidores, inversionistas, gobierno y ONG el trabajo y compromiso en la luchar contra la esclavitud moderna.
@@ -47,6 +51,18 @@ Respondiendo al planteamiento del problema y los objetivos trazados, nuestra pro
 *  Tener un asistente virtual ChatBot que pueda responder a mis preguntas sobre los puntos anteriores para facilitar mi navegación en la plataforma.
 
 El segundo enfoque está relacionado con los consumidores y el rol primordial que juega la información para una adecuada respuesta de los mercados ante la esclavitud moderna. El diseño de nuestra herramienta LIBERTTRACK APP supone la facilidad de identificar con rapidez, tanto haciendo uso de la cámara para escanear los logotipos como de manera manual, las acciones que están llevando a cabo las empresas para luchar contra la esclavitud moderna. De igual manera LIBERTTRACK APP para consumidores contempla la implementación de acciones como:
+
+* Saber la procedencia geográfica y las rutas que sigue la cadena de producción de la empresa que se consulta para identificar aquellas que involucran países o regiones en riesgo de esclavitud moderna.
+* Saber si la empresa que se está consultando tiene información oficial o no. Es decir, si proviene de la misma empresa o está verificada en la plataforma empresarial.
+* Tener detalles sobre las acciones que lleva a cabo la empresa para luchar contra la esclavitud moderna y así priorizar el consumo de aquellas que toman el tema con prioridad.
+* Reportar o enviar alertas (con posibilidad de que sea anónima) sobre casos de esclavitud moderna vinculados con una empresa en particular para contribuir en la lucha contra la esclavitud moderna.
+* Recibir sugerencias de empresas comprometidas con la lucha contra la esclavitud moderna
+* Obtener información y recursos educativos sobre qué es la esclavitud moderna y cuáles son las organizaciones que trabajan en abolirla.
+* Tener un asistente virtual ChatBot que pueda responder a mis preguntas sobre los puntos anteriores para facilitar mi navegación en la plataforma
+
+**Sobre el prototipo LIBERTTRACK**
+
+El diseño de nuestra herramienta cuenta con recursos explicativos anexos en el GitHub. Para su elaboración consideramos los Data Sets entregados por los organizadores, así como la información pública de 5 restaurantes de cadena cuyos informes atienden a las exigencias de las leyes de Reino Unido. Por tanto, en la elaboración de esta propuesta fue esencial la información disponible en el Modern slavery statement registry de Reino Unido disponible en [Modern slavery statement registry - GOV.UK](modern-slavery-statement-registry.service.gov.uk).
 
 # 4. Pitch
 
