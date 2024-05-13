@@ -4,9 +4,7 @@ Este es un repositorio de proyectos de investigación en el ámbito de la esclav
 Esto incluiría lo siguiente:
 
 # 1. Planteamiento del Problema
-
---
-
+---
 El centro de la DataJam Pasos Libres 2024 y de este documento se encuentra en buscar soluciones a la esclavitud moderna. De acuerdo con el Global Slavery Index 2023 (Walk Free, 2023) es un problema que abarca todos los aspectos de la sociedad, incluyendo la ropa que usamos, nuestros electrodomésticos y los alimentos que consumimos. La esclavitud moderna, es además de todo, una manifestación de una desigualdad extrema. Por su misma complejidad, este flagelo involucra un sinfín de causas tales como la pobreza o la migración forzada, y consecuencias como la explotación infantil, la trata de personas o la explotación
 sexual. Así las cosas, se hace necesario acotar el problema a escenarios y procesos específicos. En este caso, se hace énfasis en rol que juegan las empresas y sus cadenas de suministro. Así, algunas consideraciones relevantes para el trazado de los objetivos y el diseño de la solución son: 
 
@@ -101,6 +99,9 @@ Los repositorios listados corresponden a todo el código relacionado al desarrol
 # 7. Documentos Adicionales (Opcional)
 
 ---
+## 7.1. Demo de LibertaTrack y Tech Stack
+
+[![LibertaTrack- Demo y Stack Tecnologico](https://img.youtube.com/vi/S7Z0mA_rRgI/0.jpg)](https://www.youtube.com/watch?v=S7Z0mA_rRgI)
 
 ## 7.1. Arquitectura de solución del chatbot en AWS.
 
