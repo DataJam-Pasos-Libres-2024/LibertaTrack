@@ -13,6 +13,11 @@ a). <em>La esclavitud moderna es un fenómeno creciente</em>. De acuerdo con las
 
 b) Aunque existen avances en el marco normativo de algunos países como Reino Unido (Ley de Esclavitud Moderna, 2015), Australia (Ley de Esclavitud Moderna, 2018) o Canadá (Ley de lucha contra el trabajo forzoso y el trabajo infantil en las cadenas de suministro, 2023), que exigen a las empresas reportar sus riesgos y acciones contra la esclavitud moderna, son <em>arreglos normativos que no en todos los casos logran su cometido y, sobre todo, cuyos alcances no tienen incidencia sobre los países más nafectados en Sur América, África o del Sudeste Asiático.</em>
 
+c) El mercado de trabajo, al menos en el caso colombiano, está sesgado hacia la pequeñez. Según cifras de la Misión de Empleo (Alvarado et al., 2021), <em>el 97% de las empresas tienen entre 1 a 3 trabajadores</em> y 81% son informales. Esta última condición de informalidad hace más vulnerables a trabajadores según lo reportado por Walk Free (2023). Además, teniendo en cuenta el tamaño de las empresas, es necesario pensar en estrategias de autodiagnóstico y fortalecimiento de capacidades en torno a la esclavitud moderna que sean accesibles en costos y recursos humanos para las micro y pequeñas empresas. 
+
+d) En la actualidad, <em>los mercados muestran favoritismo por empresas con prácticas sostenibles, socialmente responsables o de gobernanza</em>. Según un estudio de reciente de las consultoras McKinsey y NielsenIQ (Frey et al., 2023), los consumidores se preocupan por la sostenibilidad, la responsabilidad social y la gobernanza. Así, 78% de las personas encuestadas manifestaron que las prácticas responsables son importantes para ellas. Además, empresas que reportaron prácticas sostenibles, socialmente responsables o de gobernanza, crecieron 28%, mientras que aquellas que no lo hicieron crecieron 20%.
+
+e) <em>Existen esfuerzos invaluables por brindar información y recomendaciones gratuitas a las empresas que no tienen la acogida ni el impacto deseable</em>. Este podría ser el caso la Modern Slavery Benchmarking Tool. En ese sentido, se hace necesario rescatar estos estos esfuerzos y divulgar su uso como una alternativa efectiva y de bajo coste para las empresas, y también confiable y transparente para los consumidores.
 
 # 2. Objetivo
 
